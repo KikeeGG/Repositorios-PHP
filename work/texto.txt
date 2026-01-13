@@ -1,0 +1,1 @@
+PHP, hola que tal estas soy un archivo pero no soy PHP
